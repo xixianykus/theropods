@@ -1,0 +1,16 @@
+{
+  "name": "theropods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "theropods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server theropods.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}

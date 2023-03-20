@@ -1,0 +1,99 @@
+{
+  "dinosaurs": [
+    {
+      "name": "Achillobator",
+      "where": "Mongolia",
+      "when": "1989",
+      "link": "https://en.wikipedia.org/wiki/Achillobator"
+    },
+    {
+      "name": "Alioramus",
+      "where": "Mongolia",
+      "when": "1976",
+      "link": "https://en.wikipedia.org/wiki/Alioramus"
+    },
+    {
+      "name": "Avimimus",
+      "where": "Mongolia",
+      "when": "1981",
+      "link": "https://en.wikipedia.org/wiki/Avimimus"
+    },
+    {
+      "name": "Bambiraptor",
+      "where": "United States",
+      "when": "1995",
+      "link": "https://en.wikipedia.org/wiki/Bambiraptor"
+    },
+    {
+      "name": "Carnotaurus",
+      "where": "Argentina",
+      "when": "1985",
+      "link": "https://en.wikipedia.org/wiki/Carnotaurus"
+    },
+    {
+      "name": "Citipati",
+      "where": "Mongolia",
+      "when": "1997",
+      "link": "https://en.wikipedia.org/wiki/Citipati"
+    },
+    {
+      "name": "Deltadromeus",
+      "where": "Morocco",
+      "when": "1996",
+      "link": "https://en.wikipedia.org/wiki/Deltadromeus"
+    },
+    {
+      "name": "Dracorex",
+      "where": "United States",
+      "when": "2004",
+      "link": "https://en.wikipedia.org/wiki/Dracorex"
+    },
+    {
+      "name": "Garudimimus",
+      "where": "Mongolia",
+      "when": "1981",
+      "link": "https://en.wikipedia.org/wiki/Garudimimus"
+    },
+    {
+      "name": "Goyocephale",
+      "where": "Mongolia",
+      "when": "1974",
+      "link": "https://en.wikipedia.org/wiki/Goyocephale"
+    },
+    {
+      "name": "Indosuchus",
+      "where": "India",
+      "when": "1932",
+      "link": "https://en.wikipedia.org/wiki/Indosuchus"
+    },
+    {
+      "name": "Khaan",
+      "where": "Mongolia",
+      "when": "2004",
+      "link": "https://en.wikipedia.org/wiki/Khaan"
+    },
+    {
+      "name": "Mononykus",
+      "where": "Mongolia",
+      "when": "1993",
+      "link": "https://en.wikipedia.org/wiki/Mononykus"
+    },
+    {
+      "name": "Nomingia",
+      "where": "Mongolia",
+      "when": "2000",
+      "link": "https://en.wikipedia.org/wiki/Nomingia"
+    },
+    {
+      "name": "Orychtodromeus",
+      "where": "United States",
+      "when": "1995",
+      "link": "https://en.wikipedia.org/wiki/Oryctodromeus"
+    },
+    {
+      "name": "Prenocephale",
+      "where": "Mongolia",
+      "when": "1999",
+      "link": "https://en.wikipedia.org/wiki/Prenocephale"
+    }]
+}
