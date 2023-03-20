@@ -73,6 +73,14 @@
       "link": "https://en.wikipedia.org/wiki/Khaan"
     },
     {
+      "name": "Mapusaurus",
+      "where": "Mongolia",
+      "when": "1997",
+      "weight": "5 tons",
+      "length": "12.2 metres",
+      "link": "https://en.wikipedia.org/wiki/Mapusaurus"
+    },
+    {
       "name": "Mononykus",
       "where": "Mongolia",
       "when": "1993",
@@ -95,5 +103,81 @@
       "where": "Mongolia",
       "when": "1999",
       "link": "https://en.wikipedia.org/wiki/Prenocephale"
-    }]
+    },
+    {
+      "name": "Rinchenia",
+      "where": "Mongolia",
+      "when": "1999",
+      "link": "https://en.wikipedia.org/wiki/Rinchenia"
+    },
+    {
+      "name": "Rugops",
+      "where": "Niger",
+      "when": "2000",
+      "link": "https://en.wikipedia.org/wiki/Rugops"
+    },
+    {
+      "name": "Shuvuuia",
+      "where": "Mongolia",
+      "when": "1998",
+      "weight": "3.5kg",
+      "link": "https://en.wikipedia.org/wiki/Shuvuuia"
+    },
+    {
+      "name": "Struthiomimus",
+      "where": "Mongolia",
+      "when": "1901 / 1914",
+      "weight": "350kg",
+      "link": "https://en.wikipedia.org/wiki/Struthiomimus"
+    },
+    {
+      "name": "Tarbosaurus",
+      "where": "Mongolia",
+      "when": "1946",
+      "weight": "5 tons",
+      "link": "https://en.wikipedia.org/wiki/Tarbosaurus"
+    },
+    {
+      "name": "Troodon",
+      "where": "USA",
+      "when": "1846",
+      "weight": "??",
+      "link": "https://en.wikipedia.org/wiki/Troodon"
+    },
+    {
+      "name": "Tylocephale",
+      "where": "Mongolia",
+      "when": "1965 to 1971",
+      "weight": "40kg",
+      "link": "https://en.wikipedia.org/wiki/Tylocephale"
+    },
+    {
+      "name": "Tyranosaurus",
+      "where": "USA",
+      "when": "1874",
+      "weight": "9 tons",
+      "link": "https://en.wikipedia.org/wiki/Tyranosaurus"
+    },
+    {
+      "name": "Unenlagia",
+      "where": "Argentina",
+      "when": "1997",
+      "weight": "40kg",
+      "link": "https://en.wikipedia.org/wiki/Unenlagia"
+    },
+    {
+      "name": "Urbacodon",
+      "where": "Uzbekistan",
+      "when": "2004",
+      "weight": "??",
+      "link": "https://en.wikipedia.org/wiki/Urbacodon"
+    },
+    {
+      "name": "Velociraptor",
+      "where": "Mongolia and China",
+      "when": "1923",
+      "weight": "20kg",
+      "link": "https://en.wikipedia.org/wiki/Velociraptor"
+    }
+  ]
 }
