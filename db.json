@@ -1,16 +1,49 @@
 {
   "dinosaurs": [
     {
+      "name": "Adasaurus",
+      "meaning": "Ada lizard",
+      "family": "dromeosaurid",
+      "where": "Mongolia",
+      "when": "1983",
+      "weight": "36 - 87kg",
+      "length": "2.4 - 3.5 metres",
+      "link": "https://en.wikipedia.org/wiki/Adasaurus"
+    },
+    {
       "name": "Achillobator",
+      "family": "dromeosaurid",
       "where": "Mongolia",
       "when": "1989",
+      "length": "4 - 5 metres",
+      "weight": "165kg - 250kg",
       "link": "https://en.wikipedia.org/wiki/Achillobator"
     },
     {
       "name": "Alioramus",
+      "family": "Tyranosaurid",
       "where": "Mongolia",
       "when": "1976",
       "link": "https://en.wikipedia.org/wiki/Alioramus"
+    },
+    {
+      "name": "Atrociraptor",
+      "meaning": "savage seizer",
+      "family": "dromeosaurid",
+      "where": "Canada",
+      "when": "2004",
+      "length": "2 metres",
+      "weight": "15kg",
+      "link": "https://en.wikipedia.org/wiki/Atrociraptor"
+    },
+    {
+      "name": "Austroraptor",
+      "family": "dromeosaurid",
+      "where": "Argentina",
+      "when": "2008",
+      "length": "5 - 6 metres",
+      "weight": "2 -300kg",
+      "link": "https://en.wikipedia.org/wiki/Austroraptor"
     },
     {
       "name": "Avimimus",
@@ -24,8 +57,20 @@
       "when": "1995",
       "link": "https://en.wikipedia.org/wiki/Bambiraptor"
     },
+        {
+      "name": "Buitreraptor",
+      "meaning": "La Buitrera seizer",
+      "family": "dromeosaurid",
+      "where": "Argentina",
+      "when": "2005",
+      "weight": "3kg",
+      "length": "1.5 metres",
+      "link": "https://en.wikipedia.org/wiki/Buitreraptor"
+    },
+
     {
       "name": "Carnotaurus",
+      "family": "abelisaurid",
       "where": "Argentina",
       "when": "1985",
       "link": "https://en.wikipedia.org/wiki/Carnotaurus"
@@ -36,6 +81,27 @@
       "when": "1997",
       "link": "https://en.wikipedia.org/wiki/Citipati"
     },
+    {
+      "name": "Dakotaraptor",
+      "meaning": "Dakota plunderer",
+      "family": "dromeosaurid",
+      "where": "USA",
+      "when": "2015",
+      "length": "4.4 - 6 metres",
+      "weight": "221 - 350kg",
+      "link": "https://en.wikipedia.org/wiki/Dakotaraptor"
+    },
+    {
+      "name": "Dromaeosaurus",
+      "meaning": "running lizard",
+      "family": "dromeosaurid",
+      "where": "Canada",
+      "when": "1922",
+      "weight": "16kg",
+      "length": "2 metres",
+      "link": "https://en.wikipedia.org/wiki/Dromaeosaurus"
+    },
+
     {
       "name": "Deltadromeus",
       "where": "Morocco",
@@ -48,11 +114,31 @@
       "when": "2004",
       "link": "https://en.wikipedia.org/wiki/Dracorex"
     },
+        {
+      "name": "Dynamoterror",
+      "meaning": "powerful terror",
+      "family": "Tyranosaurid",
+      "where": "USA",
+      "when": "2018",
+      "length": "9 metres",
+      "weight": "??",
+      "link": "https://en.wikipedia.org/wiki/Dynamoterror"
+    },
     {
       "name": "Garudimimus",
       "where": "Mongolia",
       "when": "1981",
       "link": "https://en.wikipedia.org/wiki/Garudimimus"
+    },
+        {
+      "name": "Giganotosaurus",
+      "meaning": "savage seizer",
+      "family": "carcharodontosaurid",
+      "where": "Argentina",
+      "when": "1995",
+      "length": "12 - 13 metres",
+      "weight": "4.2 - 13.8 tons",
+      "link": "https://en.wikipedia.org/wiki/Giganotosaurus"
     },
     {
       "name": "Goyocephale",
@@ -60,6 +146,16 @@
       "when": "1974",
       "link": "https://en.wikipedia.org/wiki/Goyocephale"
     },
+        {
+      "name": "Hesperonychus",
+      "family": "dromeosaurid",
+      "where": "Canada",
+      "when": "2009",
+      "weight": "1.5 - 2kg",
+      "length": "1 metre",
+      "link": "https://en.wikipedia.org/wiki/Hesperonychus"
+    },
+
     {
       "name": "Indosuchus",
       "where": "India",
@@ -71,6 +167,24 @@
       "where": "Mongolia",
       "when": "2004",
       "link": "https://en.wikipedia.org/wiki/Khaan"
+    },
+    {
+      "name": "Luanchuanraptor",
+      "family": "dromeosaurid",
+      "where": "China",
+      "when": "2007",
+      "weight": "2.5kg",
+      "length": "1.8 metres",
+      "link": "https://en.wikipedia.org/wiki/Luanchuanraptor"
+    },
+    {
+      "name": "Mahakala",
+      "family": "dromeosaurid",
+      "where": "Mongolia",
+      "when": "2007",
+      "weight": "700 grams",
+      "length": "70 centimetres",
+      "link": "https://en.wikipedia.org/wiki/Mahakala"
     },
     {
       "name": "Mapusaurus",
@@ -99,11 +213,36 @@
       "link": "https://en.wikipedia.org/wiki/Oryctodromeus"
     },
     {
+      "name": "Pamparaptor",
+      "family": "dromeosaurid",
+      "where": "Argentina",
+      "when": "2011",
+      "link": "https://en.wikipedia.org/wiki/Pamparaptor"
+    },
+    {
       "name": "Prenocephale",
       "where": "Mongolia",
       "when": "1999",
       "link": "https://en.wikipedia.org/wiki/Prenocephale"
     },
+    {
+      "name": "Pyroraptor",
+      "family": "dromeosaurid ?",
+      "where": "France",
+      "when": "1992",
+      "link": "https://en.wikipedia.org/wiki/Pyroraptor"
+    },
+        {
+      "name": "Rahonavis",
+      "meaning": "cloud menace bird",
+      "family": "avialae or dromaeosaurid",
+      "where": "Madagascar",
+      "when": "1998",
+      "weight": "2kg",
+      "length": "70 centimetres",
+      "link": "https://en.wikipedia.org/wiki/Rahonavis"
+    },
+
     {
       "name": "Rinchenia",
       "where": "Mongolia",
@@ -132,6 +271,7 @@
     },
     {
       "name": "Tarbosaurus",
+      "family": "Tyranosaurid",
       "where": "Mongolia",
       "when": "1946",
       "weight": "5 tons",
@@ -144,6 +284,16 @@
       "weight": "??",
       "link": "https://en.wikipedia.org/wiki/Troodon"
     },
+        {
+      "name": "Tsaagan",
+      "meaning": "white",
+      "family": "dromeosaurid",
+      "where": "Mongolia",
+      "when": "2006",
+      "length": "2 metres",
+      "weight": "15kg",
+      "link": "https://en.wikipedia.org/wiki/Tsaagan"
+    },
     {
       "name": "Tylocephale",
       "where": "Mongolia",
@@ -153,6 +303,7 @@
     },
     {
       "name": "Tyranosaurus",
+      "family": "Tyranosaurid",
       "where": "USA",
       "when": "1874",
       "weight": "9 tons",
@@ -173,11 +324,29 @@
       "link": "https://en.wikipedia.org/wiki/Urbacodon"
     },
     {
+      "name": "Variraptor",
+      "family": "dromeosaurid",
+      "where": "France",
+      "when": "1992 - 95",
+      "link": "https://en.wikipedia.org/wiki/Variraptor"
+    },
+    {
       "name": "Velociraptor",
+      "family": "dromeosaurid",
       "where": "Mongolia and China",
       "when": "1923",
       "weight": "20kg",
       "link": "https://en.wikipedia.org/wiki/Velociraptor"
+    },
+    {
+      "name": "Zhuchengtyrannus",
+      "meaning": "Zhucheng tyrant",
+      "family": "tyranosaurid",
+      "where": "China",
+      "when": "2011",
+      "length": "10 metres",
+      "weight": "4.5 - 5 tons",
+      "link": "https://en.wikipedia.org/wiki/Zhuchengtyrannus"
     }
   ]
 }
