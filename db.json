@@ -20,6 +20,16 @@
       "link": "https://en.wikipedia.org/wiki/Achillobator"
     },
     {
+      "name": "Albertosaurus",
+      "meaning": "Alberta lizard",
+      "family": "Tyranosaurid",
+      "where": "Canada",
+      "when": "1914",
+      "length": "9 metres",
+      "weight": "1.7 - 2.5 tons",
+      "link": "https://en.wikipedia.org/wiki/Albertosaurus"
+    },
+    {
       "name": "Alioramus",
       "family": "Tyranosaurid",
       "where": "Mongolia",
@@ -58,6 +68,16 @@
       "link": "https://en.wikipedia.org/wiki/Bambiraptor"
     },
         {
+      "name": "Bistahieversor",
+      "meaning": "Bistahi destroyer",
+      "family": "Tyranosaurid",
+      "where": "USA",
+      "when": "2010",
+      "length": "9 metres",
+      "weight": "2 - 3 tons",
+      "link": "https://en.wikipedia.org/wiki/Bistahieversor"
+    },
+    {
       "name": "Buitreraptor",
       "meaning": "La Buitrera seizer",
       "family": "dromeosaurid",
@@ -90,6 +110,16 @@
       "length": "4.4 - 6 metres",
       "weight": "221 - 350kg",
       "link": "https://en.wikipedia.org/wiki/Dakotaraptor"
+    },
+        {
+      "name": "Daspletosaurus",
+      "meaning": "frightful lizard",
+      "family": "Tyranosaurid",
+      "where": "Canada",
+      "when": "1970",
+      "length": "9 metres",
+      "weight": "2 - 3 tons",
+      "link": "https://en.wikipedia.org/wiki/Daspletosaurus"
     },
     {
       "name": "Dromaeosaurus",
@@ -141,6 +171,16 @@
       "link": "https://en.wikipedia.org/wiki/Giganotosaurus"
     },
     {
+      "name": "Gorgosaurus",
+      "meaning": "dreadful lizard",
+      "family": "Tyranosaurid",
+      "where": "Canada",
+      "when": "1914",
+      "length": "9 metres",
+      "weight": "2 -3 tons",
+      "link": "https://en.wikipedia.org/wiki/Gorgosaurus"
+    },
+    {
       "name": "Goyocephale",
       "where": "Mongolia",
       "when": "1974",
@@ -177,6 +217,16 @@
       "length": "1.8 metres",
       "link": "https://en.wikipedia.org/wiki/Luanchuanraptor"
     },
+        {
+      "name": "Lythronax",
+      "meaning": "gore king",
+      "family": "Tyranosaurid",
+      "where": "USA",
+      "when": "2013",
+      "length": "6.8 metres",
+      "weight": "1 - 2 tons",
+      "link": "https://en.wikipedia.org/wiki/Lythronax"
+    },
     {
       "name": "Mahakala",
       "family": "dromeosaurid",
@@ -199,6 +249,16 @@
       "where": "Mongolia",
       "when": "1993",
       "link": "https://en.wikipedia.org/wiki/Mononykus"
+    },
+        {
+      "name": "Nanuqsaurus",
+      "meaning": "polar bear lizard",
+      "family": "Tyranosaurid",
+      "where": "Alaska",
+      "when": "2014",
+      "length": "7 metres",
+      "weight": "1 ton",
+      "link": "https://en.wikipedia.org/wiki/Nanuqsaurus"
     },
     {
       "name": "Nomingia",
@@ -231,6 +291,16 @@
       "where": "France",
       "when": "1992",
       "link": "https://en.wikipedia.org/wiki/Pyroraptor"
+    },
+        {
+      "name": "Qianzhousaurus",
+      "meaning": "Qianzhou lizard",
+      "family": "Tyranosaurid",
+      "where": "China",
+      "when": "2014",
+      "length": "6.3 metres",
+      "weight": "750kg",
+      "link": "https://en.wikipedia.org/wiki/Qianzhousaurus"
     },
         {
       "name": "Rahonavis",
@@ -277,6 +347,26 @@
       "weight": "5 tons",
       "link": "https://en.wikipedia.org/wiki/Tarbosaurus"
     },
+        {
+      "name": "Teratophoneus",
+      "meaning": "monster murderer",
+      "family": "Tyranosaurid",
+      "where": "USA",
+      "when": "2011",
+      "length": "6 metres",
+      "weight": "670 kg",
+      "link": "https://en.wikipedia.org/wiki/Teratophoneus"
+    },
+        {
+      "name": "Thanatotheristes",
+      "meaning": "reaper of death",
+      "family": "Tyranosaurid",
+      "where": "Canada",
+      "when": "2020",
+      "length": "8 metres",
+      "weight": "??",
+      "link": "https://en.wikipedia.org/wiki/Thanatotheristes"
+    },
     {
       "name": "Troodon",
       "where": "USA",
@@ -303,10 +393,12 @@
     },
     {
       "name": "Tyranosaurus",
+      "meaning": "Tyrant Lizard King"
       "family": "Tyranosaurid",
       "where": "USA",
-      "when": "1874",
-      "weight": "9 tons",
+      "when": "1874/1905",
+      "length": "13.2 metres",
+      "weight": "8.4 tons",
       "link": "https://en.wikipedia.org/wiki/Tyranosaurus"
     },
     {
