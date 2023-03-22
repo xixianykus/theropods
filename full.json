@@ -37,6 +37,16 @@
       "link": "https://en.wikipedia.org/wiki/Alioramus"
     },
     {
+      "name": "Atrociraptor",
+      "meaning": "savage seizer",
+      "family": "dromeosaurid",
+      "where": "Canada",
+      "when": "2004",
+      "length": "2 metres",
+      "weight": "15kg",
+      "link": "https://en.wikipedia.org/wiki/Atrociraptor"
+    },
+    {
       "name": "Austroraptor",
       "family": "dromeosaurid",
       "where": "Argentina",
@@ -46,12 +56,18 @@
       "link": "https://en.wikipedia.org/wiki/Austroraptor"
     },
     {
+      "name": "Avimimus",
+      "where": "Mongolia",
+      "when": "1981",
+      "link": "https://en.wikipedia.org/wiki/Avimimus"
+    },
+    {
       "name": "Bambiraptor",
       "where": "United States",
       "when": "1995",
       "link": "https://en.wikipedia.org/wiki/Bambiraptor"
     },
-    {
+        {
       "name": "Bistahieversor",
       "meaning": "Bistahi destroyer",
       "family": "Tyranosaurid",
@@ -90,6 +106,12 @@
       "link": "https://en.wikipedia.org/wiki/Carnotaurus"
     },
     {
+      "name": "Citipati",
+      "where": "Mongolia",
+      "when": "1997",
+      "link": "https://en.wikipedia.org/wiki/Citipati"
+    },
+    {
       "name": "Dakotaraptor",
       "meaning": "Dakota plunderer",
       "family": "dromeosaurid",
@@ -99,7 +121,7 @@
       "weight": "221 - 350kg",
       "link": "https://en.wikipedia.org/wiki/Dakotaraptor"
     },
-    {
+        {
       "name": "Daspletosaurus",
       "meaning": "frightful lizard",
       "family": "Tyranosaurid",
@@ -119,13 +141,20 @@
       "length": "2 metres",
       "link": "https://en.wikipedia.org/wiki/Dromaeosaurus"
     },
+
+    {
+      "name": "Deltadromeus",
+      "where": "Morocco",
+      "when": "1996",
+      "link": "https://en.wikipedia.org/wiki/Deltadromeus"
+    },
     {
       "name": "Dracorex",
       "where": "United States",
       "when": "2004",
       "link": "https://en.wikipedia.org/wiki/Dracorex"
     },
-    {
+        {
       "name": "Dynamoterror",
       "meaning": "powerful terror",
       "family": "Tyranosaurid",
@@ -136,6 +165,12 @@
       "link": "https://en.wikipedia.org/wiki/Dynamoterror"
     },
     {
+      "name": "Garudimimus",
+      "where": "Mongolia",
+      "when": "1981",
+      "link": "https://en.wikipedia.org/wiki/Garudimimus"
+    },
+        {
       "name": "Giganotosaurus",
       "meaning": "savage seizer",
       "family": "carcharodontosaurid",
@@ -161,6 +196,28 @@
       "when": "1974",
       "link": "https://en.wikipedia.org/wiki/Goyocephale"
     },
+        {
+      "name": "Hesperonychus",
+      "family": "dromeosaurid",
+      "where": "Canada",
+      "when": "2009",
+      "weight": "1.5 - 2kg",
+      "length": "1 metre",
+      "link": "https://en.wikipedia.org/wiki/Hesperonychus"
+    },
+
+    {
+      "name": "Indosuchus",
+      "where": "India",
+      "when": "1932",
+      "link": "https://en.wikipedia.org/wiki/Indosuchus"
+    },
+    {
+      "name": "Khaan",
+      "where": "Mongolia",
+      "when": "2004",
+      "link": "https://en.wikipedia.org/wiki/Khaan"
+    },
     {
       "name": "Luanchuanraptor",
       "family": "dromeosaurid",
@@ -170,7 +227,7 @@
       "length": "1.8 metres",
       "link": "https://en.wikipedia.org/wiki/Luanchuanraptor"
     },
-    {
+        {
       "name": "Lythronax",
       "meaning": "gore king",
       "family": "Tyranosaurid",
@@ -200,6 +257,12 @@
       "link": "https://en.wikipedia.org/wiki/Mapusaurus"
     },
     {
+      "name": "Mononykus",
+      "where": "Mongolia",
+      "when": "1993",
+      "link": "https://en.wikipedia.org/wiki/Mononykus"
+    },
+        {
       "name": "Nanuqsaurus",
       "meaning": "polar bear lizard",
       "family": "Tyranosaurid",
@@ -232,6 +295,13 @@
       "link": "https://en.wikipedia.org/wiki/Oxalaia"
     },
     {
+      "name": "Pamparaptor",
+      "family": "dromeosaurid",
+      "where": "Argentina",
+      "when": "2011",
+      "link": "https://en.wikipedia.org/wiki/Pamparaptor"
+    },
+    {
       "name": "Prenocephale",
       "where": "Mongolia",
       "when": "1999",
@@ -254,6 +324,17 @@
       "weight": "750kg",
       "link": "https://en.wikipedia.org/wiki/Qianzhousaurus"
     },
+    {
+      "name": "Rahonavis",
+      "meaning": "cloud menace bird",
+      "family": "avialae or dromaeosaurid",
+      "where": "Madagascar",
+      "when": "1998",
+      "weight": "2kg",
+      "length": "70 centimetres",
+      "link": "https://en.wikipedia.org/wiki/Rahonavis"
+    },
+
     {
       "name": "Rinchenia",
       "where": "Mongolia",
@@ -284,6 +365,13 @@
       "link": "https://en.wikipedia.org/wiki/Spinosaurus"
     },
     {
+      "name": "Struthiomimus",
+      "where": "Mongolia",
+      "when": "1901 / 1914",
+      "weight": "350kg",
+      "link": "https://en.wikipedia.org/wiki/Struthiomimus"
+    },
+    {
       "name": "Tarbosaurus",
       "family": "Tyranosaurid",
       "where": "Mongolia",
@@ -291,7 +379,7 @@
       "weight": "5 tons",
       "link": "https://en.wikipedia.org/wiki/Tarbosaurus"
     },
-    {
+        {
       "name": "Teratophoneus",
       "meaning": "monster murderer",
       "family": "Tyranosaurid",
@@ -301,7 +389,7 @@
       "weight": "670 kg",
       "link": "https://en.wikipedia.org/wiki/Teratophoneus"
     },
-    {
+        {
       "name": "Thanatotheristes",
       "meaning": "reaper of death",
       "family": "Tyranosaurid",
@@ -312,6 +400,23 @@
       "link": "https://en.wikipedia.org/wiki/Thanatotheristes"
     },
     {
+      "name": "Troodon",
+      "where": "USA",
+      "when": "1846",
+      "weight": "??",
+      "link": "https://en.wikipedia.org/wiki/Troodon"
+    },
+        {
+      "name": "Tsaagan",
+      "meaning": "white",
+      "family": "dromeosaurid",
+      "where": "Mongolia",
+      "when": "2006",
+      "length": "2 metres",
+      "weight": "15kg",
+      "link": "https://en.wikipedia.org/wiki/Tsaagan"
+    },
+    {
       "name": "Tylocephale",
       "where": "Mongolia",
       "when": "1965 to 1971",
@@ -320,7 +425,7 @@
     },
     {
       "name": "Tyranosaurus",
-      "meaning": "Tyrant Lizard King",
+      "meaning": "Tyrant Lizard King"
       "family": "Tyranosaurid",
       "where": "USA",
       "when": "1874/1905",
@@ -329,11 +434,25 @@
       "link": "https://en.wikipedia.org/wiki/Tyranosaurus"
     },
     {
+      "name": "Unenlagia",
+      "where": "Argentina",
+      "when": "1997",
+      "weight": "40kg",
+      "link": "https://en.wikipedia.org/wiki/Unenlagia"
+    },
+    {
       "name": "Urbacodon",
       "where": "Uzbekistan",
       "when": "2004",
       "weight": "??",
       "link": "https://en.wikipedia.org/wiki/Urbacodon"
+    },
+    {
+      "name": "Variraptor",
+      "family": "dromeosaurid",
+      "where": "France",
+      "when": "1992 - 95",
+      "link": "https://en.wikipedia.org/wiki/Variraptor"
     },
     {
       "name": "Velociraptor",
