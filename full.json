@@ -343,8 +343,12 @@
     },
     {
       "name": "Rugops",
+      "meaning": "wrinkle face",
+      "family": "abelisaurid",
       "where": "Niger",
       "when": "2000",
+      "length": "5 metres",
+      "weight": "410kg",
       "link": "https://en.wikipedia.org/wiki/Rugops"
     },
     {

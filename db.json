@@ -46,12 +46,6 @@
       "link": "https://en.wikipedia.org/wiki/Austroraptor"
     },
     {
-      "name": "Bambiraptor",
-      "where": "United States",
-      "when": "1995",
-      "link": "https://en.wikipedia.org/wiki/Bambiraptor"
-    },
-    {
       "name": "Bistahieversor",
       "meaning": "Bistahi destroyer",
       "family": "Tyranosaurid",
@@ -60,16 +54,6 @@
       "length": "9 metres",
       "weight": "2 - 3 tons",
       "link": "https://en.wikipedia.org/wiki/Bistahieversor"
-    },
-    {
-      "name": "Buitreraptor",
-      "meaning": "La Buitrera seizer",
-      "family": "dromeosaurid",
-      "where": "Argentina",
-      "when": "2005",
-      "weight": "3kg",
-      "length": "1.5 metres",
-      "link": "https://en.wikipedia.org/wiki/Buitreraptor"
     },
     {
       "name": "Carcharodontosaurus",
@@ -81,7 +65,6 @@
       "length": "12 metres",
       "link": "https://en.wikipedia.org/wiki/Carcharodontosaurus"
     },
-
     {
       "name": "Carnotaurus",
       "family": "abelisaurid",
@@ -120,12 +103,6 @@
       "link": "https://en.wikipedia.org/wiki/Dromaeosaurus"
     },
     {
-      "name": "Dracorex",
-      "where": "United States",
-      "when": "2004",
-      "link": "https://en.wikipedia.org/wiki/Dracorex"
-    },
-    {
       "name": "Dynamoterror",
       "meaning": "powerful terror",
       "family": "Tyranosaurid",
@@ -156,21 +133,6 @@
       "link": "https://en.wikipedia.org/wiki/Gorgosaurus"
     },
     {
-      "name": "Goyocephale",
-      "where": "Mongolia",
-      "when": "1974",
-      "link": "https://en.wikipedia.org/wiki/Goyocephale"
-    },
-    {
-      "name": "Luanchuanraptor",
-      "family": "dromeosaurid",
-      "where": "China",
-      "when": "2007",
-      "weight": "2.5kg",
-      "length": "1.8 metres",
-      "link": "https://en.wikipedia.org/wiki/Luanchuanraptor"
-    },
-    {
       "name": "Lythronax",
       "meaning": "gore king",
       "family": "Tyranosaurid",
@@ -179,15 +141,6 @@
       "length": "6.8 metres",
       "weight": "1 - 2 tons",
       "link": "https://en.wikipedia.org/wiki/Lythronax"
-    },
-    {
-      "name": "Mahakala",
-      "family": "dromeosaurid",
-      "where": "Mongolia",
-      "when": "2007",
-      "weight": "700 grams",
-      "length": "70 centimetres",
-      "link": "https://en.wikipedia.org/wiki/Mahakala"
     },
     {
       "name": "Mapusaurus",
@@ -210,12 +163,6 @@
       "link": "https://en.wikipedia.org/wiki/Nanuqsaurus"
     },
     {
-      "name": "Nomingia",
-      "where": "Mongolia",
-      "when": "2000",
-      "link": "https://en.wikipedia.org/wiki/Nomingia"
-    },
-    {
       "name": "Orychtodromeus",
       "where": "United States",
       "when": "1995",
@@ -232,19 +179,6 @@
       "link": "https://en.wikipedia.org/wiki/Oxalaia"
     },
     {
-      "name": "Prenocephale",
-      "where": "Mongolia",
-      "when": "1999",
-      "link": "https://en.wikipedia.org/wiki/Prenocephale"
-    },
-    {
-      "name": "Pyroraptor",
-      "family": "dromeosaurid ?",
-      "where": "France",
-      "when": "1992",
-      "link": "https://en.wikipedia.org/wiki/Pyroraptor"
-    },
-    {
       "name": "Qianzhousaurus",
       "meaning": "Qianzhou lizard",
       "family": "Tyranosaurid",
@@ -255,23 +189,14 @@
       "link": "https://en.wikipedia.org/wiki/Qianzhousaurus"
     },
     {
-      "name": "Rinchenia",
-      "where": "Mongolia",
-      "when": "1999",
-      "link": "https://en.wikipedia.org/wiki/Rinchenia"
-    },
-    {
       "name": "Rugops",
+      "meaning": "wrinkle face",
+      "family": "abelisaurid",
       "where": "Niger",
       "when": "2000",
+      "length": "5 metres",
+      "weight": "410kg",
       "link": "https://en.wikipedia.org/wiki/Rugops"
-    },
-    {
-      "name": "Shuvuuia",
-      "where": "Mongolia",
-      "when": "1998",
-      "weight": "3.5kg",
-      "link": "https://en.wikipedia.org/wiki/Shuvuuia"
     },
     {
       "name": "Spinosaurus",
@@ -310,13 +235,6 @@
       "length": "8 metres",
       "weight": "??",
       "link": "https://en.wikipedia.org/wiki/Thanatotheristes"
-    },
-    {
-      "name": "Tylocephale",
-      "where": "Mongolia",
-      "when": "1965 to 1971",
-      "weight": "40kg",
-      "link": "https://en.wikipedia.org/wiki/Tylocephale"
     },
     {
       "name": "Tyranosaurus",

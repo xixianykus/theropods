@@ -10,7 +10,7 @@ https://my-json-server.typicode.com/xixianykus/theropods
 The file can be accessed: 
 https://my-json-server.typicode.com/xixianykus/theropods/db
 
-(The file has to be called db.json to work with typicode it seems)
+(The file has to be called db.json to work with typicode it seems. It is also limited to 10k with a max of 30 items!!)
 
 ## Testing
 Can check locally and  on the WWW using https://hoppscotch.io/ (online app instead of Postman)
