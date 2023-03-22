@@ -1,5 +1,5 @@
 {
-  "dinosaurs": [
+  "theropods": [
     {
       "name": "Adasaurus",
       "meaning": "Ada lizard",
@@ -86,6 +86,16 @@
       "weight": "3kg",
       "length": "1.5 metres",
       "link": "https://en.wikipedia.org/wiki/Buitreraptor"
+    },
+    {
+      "name": "Carcharodontosaurus",
+      "meaning": "shark toothed lizard",
+      "family": "Carcharodontosaurid",
+      "where": "Egypt",
+      "when": "1931",
+      "weight": "6 tons",
+      "length": "12 metres",
+      "link": "https://en.wikipedia.org/wiki/Carcharodontosaurus"
     },
 
     {
@@ -238,8 +248,10 @@
     },
     {
       "name": "Mapusaurus",
-      "where": "Mongolia",
-      "when": "1997",
+      "meaning": " lizard",
+      "family": "Carcharodontosaurid",
+      "where": "Argentina",
+      "when": "2006",
       "weight": "5 tons",
       "length": "12.2 metres",
       "link": "https://en.wikipedia.org/wiki/Mapusaurus"
@@ -273,6 +285,16 @@
       "link": "https://en.wikipedia.org/wiki/Oryctodromeus"
     },
     {
+      "name": "Oxalaia",
+      "meaning": "Oxalá is an African deity",
+      "family": "spinosaurid",
+      "where": "Brazil",
+      "when": "2011",
+      "length": "13 metres",
+      "weight": "6 tons",
+      "link": "https://en.wikipedia.org/wiki/Oxalaia"
+    },
+    {
       "name": "Pamparaptor",
       "family": "dromeosaurid",
       "where": "Argentina",
@@ -292,7 +314,7 @@
       "when": "1992",
       "link": "https://en.wikipedia.org/wiki/Pyroraptor"
     },
-        {
+    {
       "name": "Qianzhousaurus",
       "meaning": "Qianzhou lizard",
       "family": "Tyranosaurid",
@@ -302,7 +324,7 @@
       "weight": "750kg",
       "link": "https://en.wikipedia.org/wiki/Qianzhousaurus"
     },
-        {
+    {
       "name": "Rahonavis",
       "meaning": "cloud menace bird",
       "family": "avialae or dromaeosaurid",
@@ -331,6 +353,16 @@
       "when": "1998",
       "weight": "3.5kg",
       "link": "https://en.wikipedia.org/wiki/Shuvuuia"
+    },
+    {
+      "name": "Spinosaurus",
+      "meaning": "spine lizard",
+      "family": "spinosaurid",
+      "where": "Egypt",
+      "when": "1915",
+      "length": "14 metres",
+      "weight": "7.5 tons",
+      "link": "https://en.wikipedia.org/wiki/Spinosaurus"
     },
     {
       "name": "Struthiomimus",
