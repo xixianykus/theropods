@@ -1,0 +1,499 @@
+[
+  {
+    "name": "Adasaurus",
+    "meaning": "Ada lizard",
+    "family": "dromeosaurid",
+    "where": "Mongolia",
+    "when": "1983",
+    "weight": "36 - 87kg",
+    "length": "2.4 - 3.5 metres",
+    "link": "https://en.wikipedia.org/wiki/Adasaurus"
+  },
+  {
+    "name": "Achillobator",
+    "family": "dromeosaurid",
+    "where": "Mongolia",
+    "when": "1989",
+    "length": "4 - 5 metres",
+    "weight": "165kg - 250kg",
+    "link": "https://en.wikipedia.org/wiki/Achillobator"
+  },
+  {
+    "name": "Albertosaurus",
+    "meaning": "Alberta lizard",
+    "family": "Tyranosaurid",
+    "where": "Canada",
+    "when": "1914",
+    "length": "9 metres",
+    "weight": "1.7 - 2.5 tons",
+    "link": "https://en.wikipedia.org/wiki/Albertosaurus"
+  },
+  {
+    "name": "Alioramus",
+    "meaning": "different branch",
+    "family": "Tyranosaurid",
+    "where": "Mongolia",
+    "when": "1976",
+    "length": "5.5 metres",
+    "weight": "500kg",
+    "link": "https://en.wikipedia.org/wiki/Alioramus"
+  },
+  {
+    "name": "Atrociraptor",
+    "meaning": "savage seizer",
+    "family": "dromeosaurid",
+    "where": "Canada",
+    "when": "2004",
+    "length": "2 metres",
+    "weight": "15kg",
+    "link": "https://en.wikipedia.org/wiki/Atrociraptor"
+  },
+  {
+    "name": "Austroraptor",
+    "meaning": "Southern thief",
+    "family": "dromeosaurid",
+    "where": "Argentina",
+    "when": "2008",
+    "length": "5 - 6 metres",
+    "weight": "2 -300kg",
+    "link": "https://en.wikipedia.org/wiki/Austroraptor"
+  },
+  {
+    "name": "Avimimus",
+    "meaning": "bird mimic",
+    "family": "Avimimid",
+    "where": "Mongolia",
+    "when": "1981",
+    "length": "1.5 metres",
+    "link": "https://en.wikipedia.org/wiki/Avimimus"
+  },
+  {
+    "name": "Bambiraptor",
+    "meaning": "Bambi thief",
+    "family": "dromeosaurid",
+    "where": "United States",
+    "when": "2000",
+    "length": "1 metre",
+    "weight": "2kg",
+    "link": "https://en.wikipedia.org/wiki/Bambiraptor"
+  },
+  {
+    "name": "Bistahieversor",
+    "meaning": "Bistahi destroyer",
+    "family": "Tyranosaurid",
+    "where": "USA",
+    "when": "2010",
+    "length": "9 metres",
+    "weight": "2 - 3 tons",
+    "link": "https://en.wikipedia.org/wiki/Bistahieversor"
+  },
+  {
+    "name": "Buitreraptor",
+    "meaning": "La Buitrera seizer",
+    "family": "dromeosaurid",
+    "where": "Argentina",
+    "when": "2005",
+    "weight": "3kg",
+    "length": "1.5 metres",
+    "link": "https://en.wikipedia.org/wiki/Buitreraptor"
+  },
+  {
+    "name": "Carcharodontosaurus",
+    "meaning": "shark toothed lizard",
+    "family": "Carcharodontosaurid",
+    "where": "Egypt",
+    "when": "1931",
+    "weight": "6 tons",
+    "length": "12 metres",
+    "link": "https://en.wikipedia.org/wiki/Carcharodontosaurus"
+  },
+
+  {
+    "name": "Carnotaurus",
+    "meaning": "meat eating bull",
+    "family": "abelisaurid",
+    "where": "Argentina",
+    "when": "1985",
+    "weight": "1.3 - 2.1 tons",
+    "length": "8 metres",
+    "link": "https://en.wikipedia.org/wiki/Carnotaurus"
+  },
+  {
+    "name": "Citipati",
+    "meaning": "funeral pyre lord",
+    "family": "oviraptorid",
+    "where": "Mongolia",
+    "when": "1997",
+    "length": "2.9 metres",
+    "weight": "75 - 83 kg",
+    "link": "https://en.wikipedia.org/wiki/Citipati"
+  },
+  {
+    "name": "Dakotaraptor",
+    "meaning": "Dakota plunderer",
+    "family": "dromeosaurid",
+    "where": "USA",
+    "when": "2015",
+    "length": "4.4 - 6 metres",
+    "weight": "221 - 350kg",
+    "link": "https://en.wikipedia.org/wiki/Dakotaraptor"
+  },
+  {
+    "name": "Daspletosaurus",
+    "meaning": "frightful lizard",
+    "family": "Tyranosaurid",
+    "where": "Canada",
+    "when": "1970",
+    "length": "9 metres",
+    "weight": "2 - 3 tons",
+    "link": "https://en.wikipedia.org/wiki/Daspletosaurus"
+  },
+  {
+    "name": "Dromaeosaurus",
+    "meaning": "running lizard",
+    "family": "dromeosaurid",
+    "where": "Canada",
+    "when": "1922",
+    "weight": "16kg",
+    "length": "2 metres",
+    "link": "https://en.wikipedia.org/wiki/Dromaeosaurus"
+  },
+
+  {
+    "name": "Deltadromeus",
+    "meaning": "delta runner",
+    "where": "Morocco",
+    "when": "1996",
+    "length": "8 metres",
+    "weight": "1 ton",
+    "link": "https://en.wikipedia.org/wiki/Deltadromeus"
+  },
+  {
+    "name": "Dynamoterror",
+    "meaning": "powerful terror",
+    "family": "Tyranosaurid",
+    "where": "USA",
+    "when": "2018",
+    "length": "9 metres",
+    "weight": "??",
+    "link": "https://en.wikipedia.org/wiki/Dynamoterror"
+  },
+  {
+    "name": "Garudimimus",
+    "meaning": "Garuda mimic",
+    "where": "Mongolia",
+    "when": "1981",
+    "length": "3.5 metres",
+    "weight": "98 kg",
+    "link": "https://en.wikipedia.org/wiki/Garudimimus"
+  },
+  {
+    "name": "Giganotosaurus",
+    "meaning": "savage seizer",
+    "family": "carcharodontosaurid",
+    "where": "Argentina",
+    "when": "1995",
+    "length": "12 - 13 metres",
+    "weight": "4.2 - 13.8 tons",
+    "link": "https://en.wikipedia.org/wiki/Giganotosaurus"
+  },
+  {
+    "name": "Gorgosaurus",
+    "meaning": "dreadful lizard",
+    "family": "Tyranosaurid",
+    "where": "Canada",
+    "when": "1914",
+    "length": "9 metres",
+    "weight": "2 -3 tons",
+    "link": "https://en.wikipedia.org/wiki/Gorgosaurus"
+  },
+  {
+    "name": "Hesperonychus",
+    "meaning": "western claw",
+    "family": "dromeosaurid",
+    "where": "Canada",
+    "when": "2009",
+    "weight": "1.5 - 2kg",
+    "length": "1 metre",
+    "link": "https://en.wikipedia.org/wiki/Hesperonychus"
+  },
+
+  {
+    "name": "Indosuchus",
+    "meaning": "Indian crocodile",
+    "family": "Abelisaurid",
+    "where": "India",
+    "when": "1932",
+    "length": "7 metres",
+    "weight": "1.2 tons",
+    "link": "https://en.wikipedia.org/wiki/Indosuchus"
+  },
+  {
+    "name": "Khaan",
+    "meaning": "lord",
+    "family": "oviraptorid",
+    "where": "Mongolia",
+    "when": "2004",
+    "length": "1.2 metres",
+    "link": "https://en.wikipedia.org/wiki/Khaan"
+  },
+  {
+    "name": "Luanchuanraptor",
+    "meaning": "Luanchuan thief",
+    "family": "dromeosaurid",
+    "where": "China",
+    "when": "2007",
+    "weight": "2.5kg",
+    "length": "1.8 metres",
+    "link": "https://en.wikipedia.org/wiki/Luanchuanraptor"
+  },
+  {
+    "name": "Lythronax",
+    "meaning": "gore king",
+    "family": "Tyranosaurid",
+    "where": "USA",
+    "when": "2013",
+    "length": "6.8 metres",
+    "weight": "1 - 2 tons",
+    "link": "https://en.wikipedia.org/wiki/Lythronax"
+  },
+  {
+    "name": "Mahakala",
+    "meaning": "named after a deity in Tibetan Buddhism",
+    "family": "dromeosaurid",
+    "where": "Mongolia",
+    "when": "2007",
+    "weight": "700 grams",
+    "length": "70 centimetres",
+    "link": "https://en.wikipedia.org/wiki/Mahakala"
+  },
+  {
+    "name": "Mapusaurus",
+    "meaning": "lizard",
+    "family": "Carcharodontosaurid",
+    "where": "Argentina",
+    "when": "2006",
+    "weight": "5 tons",
+    "length": "12.2 metres",
+    "link": "https://en.wikipedia.org/wiki/Mapusaurus"
+  },
+  {
+    "name": "Mononykus",
+    "meaning": "one claw",
+    "family": "Alvarezsaurid",
+    "where": "Mongolia",
+    "when": "1993",
+    "length": "1.2 metres",
+    "weight": "3.5kg",
+    "link": "https://en.wikipedia.org/wiki/Mononykus"
+  },
+  {
+    "name": "Nanuqsaurus",
+    "meaning": "polar bear lizard",
+    "family": "Tyranosaurid",
+    "where": "Alaska",
+    "when": "2014",
+    "length": "7 metres",
+    "weight": "1 ton",
+    "link": "https://en.wikipedia.org/wiki/Nanuqsaurus"
+  },
+  {
+    "name": "Nomingia",
+    "family": "oviraptorid",
+    "where": "Mongolia",
+    "when": "2000",
+    "length": "1.7 metres",
+    "weight": "20kg",
+    "link": "https://en.wikipedia.org/wiki/Nomingia"
+  },
+  {
+    "name": "Oxalaia",
+    "meaning": "Oxalá is an African deity",
+    "family": "spinosaurid",
+    "where": "Brazil",
+    "when": "2011",
+    "length": "13 metres",
+    "weight": "6 tons",
+    "link": "https://en.wikipedia.org/wiki/Oxalaia"
+  },
+  {
+    "name": "Pamparaptor",
+    "meaning": "named after Pampas people",
+    "family": "dromeosaurid",
+    "where": "Argentina",
+    "when": "2011",
+    "link": "https://en.wikipedia.org/wiki/Pamparaptor"
+  },
+  {
+    "name": "Pyroraptor",
+    "meaning": "fire thief",
+    "family": "dromeosaurid or unenlagiid",
+    "where": "France",
+    "when": "1992",
+    "link": "https://en.wikipedia.org/wiki/Pyroraptor"
+  },
+  {
+    "name": "Qianzhousaurus",
+    "meaning": "Qianzhou lizard",
+    "family": "Tyranosaurid",
+    "where": "China",
+    "when": "2014",
+    "length": "6.3 metres",
+    "weight": "750kg",
+    "link": "https://en.wikipedia.org/wiki/Qianzhousaurus"
+  },
+  {
+    "name": "Rahonavis",
+    "meaning": "cloud menace bird",
+    "family": "avialae or dromaeosaurid",
+    "where": "Madagascar",
+    "when": "1998",
+    "weight": "2kg",
+    "length": "70 centimetres",
+    "link": "https://en.wikipedia.org/wiki/Rahonavis"
+  },
+
+  {
+    "name": "Rinchenia",
+    "meaning": "named after Byambyn Rinchen",
+    "family": "oviraptorid",
+    "where": "Mongolia",
+    "when": "1999",
+    "link": "https://en.wikipedia.org/wiki/Rinchenia"
+  },
+  {
+    "name": "Rugops",
+    "meaning": "wrinkle face",
+    "family": "abelisaurid",
+    "where": "Niger",
+    "when": "2000",
+    "length": "5 metres",
+    "weight": "410kg",
+    "link": "https://en.wikipedia.org/wiki/Rugops"
+  },
+  {
+    "name": "Shuvuuia",
+    "where": "Mongolia",
+    "when": "1998",
+    "weight": "3.5kg",
+    "link": "https://en.wikipedia.org/wiki/Shuvuuia"
+  },
+  {
+    "name": "Spinosaurus",
+    "meaning": "spine lizard",
+    "family": "spinosaurid",
+    "where": "Egypt",
+    "when": "1915",
+    "length": "14 metres",
+    "weight": "7.5 tons",
+    "link": "https://en.wikipedia.org/wiki/Spinosaurus"
+  },
+  {
+    "name": "Struthiomimus",
+    "where": "Mongolia",
+    "when": "1901 / 1914",
+    "weight": "350kg",
+    "link": "https://en.wikipedia.org/wiki/Struthiomimus"
+  },
+  {
+    "name": "Tarbosaurus",
+    "family": "Tyranosaurid",
+    "where": "Mongolia",
+    "when": "1946",
+    "weight": "5 tons",
+    "link": "https://en.wikipedia.org/wiki/Tarbosaurus"
+  },
+  {
+    "name": "Teratophoneus",
+    "meaning": "monster murderer",
+    "family": "Tyranosaurid",
+    "where": "USA",
+    "when": "2011",
+    "length": "6 metres",
+    "weight": "670 kg",
+    "link": "https://en.wikipedia.org/wiki/Teratophoneus"
+  },
+  {
+    "name": "Thanatotheristes",
+    "meaning": "reaper of death",
+    "family": "Tyranosaurid",
+    "where": "Canada",
+    "when": "2020",
+    "length": "8 metres",
+    "weight": "??",
+    "link": "https://en.wikipedia.org/wiki/Thanatotheristes"
+  },
+  {
+    "name": "Troodon",
+    "where": "USA",
+    "when": "1846",
+    "weight": "??",
+    "link": "https://en.wikipedia.org/wiki/Troodon"
+  },
+  {
+    "name": "Tsaagan",
+    "meaning": "white",
+    "family": "dromeosaurid",
+    "where": "Mongolia",
+    "when": "2006",
+    "length": "2 metres",
+    "weight": "15kg",
+    "link": "https://en.wikipedia.org/wiki/Tsaagan"
+  },
+  {
+    "name": "Tylocephale",
+    "where": "Mongolia",
+    "when": "1965 to 1971",
+    "weight": "40kg",
+    "link": "https://en.wikipedia.org/wiki/Tylocephale"
+  },
+  {
+    "name": "Tyranosaurus",
+    "meaning": "Tyrant Lizard King",
+    "family": "Tyranosaurid",
+    "where": "USA",
+    "when": "1874/1905",
+    "length": "13.2 metres",
+    "weight": "8.4 tons",
+    "link": "https://en.wikipedia.org/wiki/Tyranosaurus"
+  },
+  {
+    "name": "Unenlagia",
+    "where": "Argentina",
+    "when": "1997",
+    "weight": "40kg",
+    "link": "https://en.wikipedia.org/wiki/Unenlagia"
+  },
+  {
+    "name": "Urbacodon",
+    "where": "Uzbekistan",
+    "when": "2004",
+    "weight": "??",
+    "link": "https://en.wikipedia.org/wiki/Urbacodon"
+  },
+  {
+    "name": "Variraptor",
+    "family": "dromeosaurid",
+    "where": "France",
+    "when": "1992 - 95",
+    "link": "https://en.wikipedia.org/wiki/Variraptor"
+  },
+  {
+    "name": "Velociraptor",
+    "family": "dromeosaurid",
+    "where": "Mongolia and China",
+    "when": "1923",
+    "weight": "20kg",
+    "link": "https://en.wikipedia.org/wiki/Velociraptor"
+  },
+  {
+    "name": "Zhuchengtyrannus",
+    "meaning": "Zhucheng tyrant",
+    "family": "tyranosaurid",
+    "where": "China",
+    "when": "2011",
+    "length": "10 metres",
+    "weight": "4.5 - 5 tons",
+    "link": "https://en.wikipedia.org/wiki/Zhuchengtyrannus"
+  }
+]
